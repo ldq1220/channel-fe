@@ -1,0 +1,11 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+pnpm-lock.yaml
+.history/
+build/cool/temp/eps.d.ts
+build/cool/temp/eps.json
+yarn.lock
+

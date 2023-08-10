@@ -1,0 +1,17 @@
+.cl-avatar {
+	.el-avatar {
+		display: block;
+		margin: 0 auto;
+	}
+
+	img {
+		width: 100%;
+	}
+}
+//全局使用
+.cl-filter .el-select{
+	width:50px;
+}
+.cl-search-key .el-select{
+	width:85px;
+}
